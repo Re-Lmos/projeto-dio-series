@@ -1,0 +1,30 @@
+C:\Users\Renata\Documents\DIO\Cadastro Séries\CadastroSeries\obj\Debug\net6.0\CadastroSeries.csproj.AssemblyReference.cache
+C:\Users\Renata\Documents\DIO\Cadastro Séries\CadastroSeries\obj\Debug\net6.0\CadastroSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renata\Documents\DIO\Cadastro Séries\CadastroSeries\obj\Debug\net6.0\CadastroSeries.AssemblyInfoInputs.cache
+C:\Users\Renata\Documents\DIO\Cadastro Séries\CadastroSeries\obj\Debug\net6.0\CadastroSeries.AssemblyInfo.cs
+C:\Users\Renata\Documents\DIO\Cadastro Séries\CadastroSeries\obj\Debug\net6.0\CadastroSeries.csproj.CoreCompileInputs.cache
+C:\Users\Renata\Documents\DIO\Cadastro Séries\CadastroSeries\bin\Debug\net6.0\CadastroSeries.exe
+C:\Users\Renata\Documents\DIO\Cadastro Séries\CadastroSeries\bin\Debug\net6.0\CadastroSeries.deps.json
+C:\Users\Renata\Documents\DIO\Cadastro Séries\CadastroSeries\bin\Debug\net6.0\CadastroSeries.runtimeconfig.json
+C:\Users\Renata\Documents\DIO\Cadastro Séries\CadastroSeries\bin\Debug\net6.0\CadastroSeries.dll
+C:\Users\Renata\Documents\DIO\Cadastro Séries\CadastroSeries\bin\Debug\net6.0\CadastroSeries.pdb
+C:\Users\Renata\Documents\DIO\Cadastro Séries\CadastroSeries\obj\Debug\net6.0\CadastroSeries.dll
+C:\Users\Renata\Documents\DIO\Cadastro Séries\CadastroSeries\obj\Debug\net6.0\refint\CadastroSeries.dll
+C:\Users\Renata\Documents\DIO\Cadastro Séries\CadastroSeries\obj\Debug\net6.0\CadastroSeries.pdb
+C:\Users\Renata\Documents\DIO\Cadastro Séries\CadastroSeries\obj\Debug\net6.0\CadastroSeries.genruntimeconfig.cache
+C:\Users\Renata\Documents\DIO\Cadastro Séries\CadastroSeries\obj\Debug\net6.0\ref\CadastroSeries.dll
+C:\Users\Renata\Documents\DIO\Projeto-Series\CadastroSeries\bin\Debug\net6.0\CadastroSeries.exe
+C:\Users\Renata\Documents\DIO\Projeto-Series\CadastroSeries\bin\Debug\net6.0\CadastroSeries.deps.json
+C:\Users\Renata\Documents\DIO\Projeto-Series\CadastroSeries\bin\Debug\net6.0\CadastroSeries.runtimeconfig.json
+C:\Users\Renata\Documents\DIO\Projeto-Series\CadastroSeries\bin\Debug\net6.0\CadastroSeries.dll
+C:\Users\Renata\Documents\DIO\Projeto-Series\CadastroSeries\bin\Debug\net6.0\CadastroSeries.pdb
+C:\Users\Renata\Documents\DIO\Projeto-Series\CadastroSeries\obj\Debug\net6.0\CadastroSeries.csproj.AssemblyReference.cache
+C:\Users\Renata\Documents\DIO\Projeto-Series\CadastroSeries\obj\Debug\net6.0\CadastroSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renata\Documents\DIO\Projeto-Series\CadastroSeries\obj\Debug\net6.0\CadastroSeries.AssemblyInfoInputs.cache
+C:\Users\Renata\Documents\DIO\Projeto-Series\CadastroSeries\obj\Debug\net6.0\CadastroSeries.AssemblyInfo.cs
+C:\Users\Renata\Documents\DIO\Projeto-Series\CadastroSeries\obj\Debug\net6.0\CadastroSeries.csproj.CoreCompileInputs.cache
+C:\Users\Renata\Documents\DIO\Projeto-Series\CadastroSeries\obj\Debug\net6.0\CadastroSeries.dll
+C:\Users\Renata\Documents\DIO\Projeto-Series\CadastroSeries\obj\Debug\net6.0\refint\CadastroSeries.dll
+C:\Users\Renata\Documents\DIO\Projeto-Series\CadastroSeries\obj\Debug\net6.0\CadastroSeries.pdb
+C:\Users\Renata\Documents\DIO\Projeto-Series\CadastroSeries\obj\Debug\net6.0\CadastroSeries.genruntimeconfig.cache
+C:\Users\Renata\Documents\DIO\Projeto-Series\CadastroSeries\obj\Debug\net6.0\ref\CadastroSeries.dll
